@@ -11,7 +11,7 @@ To run the script, type the following path in the PowerShell prompt:
   & 'C:\Users\User Name\Desktop\organiserScript.ps1'
 ```
 
-  NOTE:
-    1. Here the script is present in the Desktop folder of the user 'User Name' and source and destination are also considered to be in the same location.
-    2. '&' (ampersand) allows a space to be present in the file path. Without '&' your script will not run if there are spaces present anywhere in the file path.
-    3. Instead of providing absolute paths, relative paths can be used based on the current folder you are in.
+  **NOTE:** <br/>
+    1. Here the script is present in the Desktop folder of the user 'User Name' and source and destination are also considered to be in the same location. <br/>
+    2. '&' (ampersand) allows a space to be present in the file path. Without '&' your script will not run if there are spaces present anywhere in the file path. <br/>
+    3. Instead of providing absolute paths, relative paths can be used based on the current folder you are in. <br/>
